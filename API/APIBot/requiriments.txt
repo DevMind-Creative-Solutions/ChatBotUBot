@@ -1,0 +1,6 @@
+fastapi==0.100.0
+uvicorn[standard]==0.23.2
+psycopg2-binary==2.9.7
+python-decouple==3.8  # Para gerenciar variáveis de ambiente
+httpx==0.24.1        # Para chamadas HTTP internas
+pytest==7.4.2        # Para testes
