@@ -22,3 +22,4 @@ dbconect()
 # DBHOST=localhost
 # DBPASSWORD=danidani
 # DBPORT=5432
+teste
